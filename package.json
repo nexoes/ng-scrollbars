@@ -19,5 +19,9 @@
   "author": {
     "name": "Peter Andreas Moelgaard"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
