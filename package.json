@@ -1,5 +1,5 @@
 {
-  "name": "ng-scrollbars",
+  "name": "nx-scrollbars",
   "version": "0.0.10",
   "description": "Wrapper of Malihu's jQuery Custom Scrollbar to Angular",
   "main": "src/scrollbars.js",
@@ -16,6 +16,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Peter Andreas Moelgaard"
+  },
   "license": "MIT"
 }
